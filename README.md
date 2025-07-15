@@ -21,6 +21,9 @@ This is a PyTorch implememtation of DrQ and DrQ with DRAP from
   <img width="24%" src="gif/50000_w.gif">
 </p>
 
+## Implementation 
+A description of the implementation can be found [here](description.pptx)
+
 ## Requirements
 To install the requirements run:
 ```
