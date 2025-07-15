@@ -22,7 +22,7 @@ This is a PyTorch implememtation of DrQ and DrQ with DRAP from
 </p>
 
 ## Implementation 
-A description of the implementation can be found [here](description.pptx)
+A description of the implementation can be found [here](description.pdf)
 
 ## Requirements
 To install the requirements run:
